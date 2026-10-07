@@ -121,3 +121,18 @@ section {
     height: 120px;
   }
 }
+.project-card {
+  border: 1px solid #ddd;
+  border-radius: 8px;
+  padding: 1rem 1.25rem;
+  margin-bottom: 1rem;
+}
+.project-card h3 { margin-top: 0; }
+.project-card .tech { font-size: 0.9rem; color: #666; }
+.status {
+  font-size: 0.75rem;
+  background: #ffd6d6;
+  padding: 2px 8px;
+  border-radius: 10px;
+  margin-left: 6px;
+}
